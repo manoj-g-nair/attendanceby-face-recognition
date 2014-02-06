@@ -1,0 +1,6 @@
+actor - teachers,instructors(who checks the attendance)
+use-cases: 1.  registration
+	   2.  face-recognition
+	   3.  information about individual
+	   4.  attendance
+           
