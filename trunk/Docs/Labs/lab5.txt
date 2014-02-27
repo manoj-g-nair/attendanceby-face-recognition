@@ -1,0 +1,11 @@
+PROBLEMS from A3example project:
+1.No features are written (biggest problem of this project)
+2.No design constraints are defined
+3.No performance requirements are shown,explained 
+
+
+
+
+FEATURES from our project:
+1. Face Detection
+2. Modifiable table in Instructor's Modify Page
