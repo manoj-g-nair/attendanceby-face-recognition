@@ -1,0 +1,1 @@
+before when you enter the class room camera takes a photo of yours and then checks attendance.
